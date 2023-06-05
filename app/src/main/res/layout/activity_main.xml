@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:text="next"
         android:layout_marginTop="16dp"
-        android:layout_centerHorizontal="true"/>
+        android:layout_alignParentEnd="true" />
 
     <LinearLayout
         android:id="@+id/linear1"
