@@ -13,17 +13,6 @@
         android:layout_marginTop="16dp"
         android:layout_centerHorizontal="true"/>
 
-
-
-
-        <!-- 1行目のボタン -->
-<!--        <LinearLayout-->
-<!--            android:layout_below="@id/button"-->
-<!--            android:id="@+id/linear1"-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:orientation="horizontal">-->
-
     <LinearLayout
         android:id="@+id/linear1"
         android:layout_width="match_parent"
@@ -136,7 +125,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/linear3"
         android:layout_centerHorizontal="true"
-        android:src="@drawable/b1"
+
         tools:ignore="NotSibling" />
 
 </RelativeLayout>
